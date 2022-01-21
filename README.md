@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gopalakrizhnan
 - 👀 I’m interested in java
 - 🌱 I’m currently learning jaava
-- 💞️ I’m looking to collaborate on adavnce java
+- 💞️ I’m looking to collaborate on advance java
 - 📫 How to reach me gopalkrizh92@gmail.com
 
 <!---
